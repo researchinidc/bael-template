@@ -7,19 +7,14 @@
   "altlayout": false,
   "menu": [
     {
-      "name": "M",
+      "name": "IDC School of Design",
       "position": "1",
-      "link": "https://www.jake101.com/"
+      "link": "http://www.idc.iitb.ac.in/"
     },
     {
-      "name": "Nuxt.js",
+      "name": "IIT Bombay",
       "position": "2",
-      "link": "https://www.nuxtjs.org/"
-    },
-    {
-      "name": "Netlify",
-      "position": "3",
-      "link": "https://www.netlify.com/"
+      "link": "https://www.iitb.ac.in/"
     }
   ]
 }
